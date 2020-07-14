@@ -1,0 +1,4 @@
+[submodule "ingeint/nimetrix-sicbatch"]
+	path = ingeint/nimetrix-sicbatch
+	url = git@github.com:ingeint/nimetrix-sicbatch.git
+	branch = master
